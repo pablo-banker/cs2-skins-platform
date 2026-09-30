@@ -1,0 +1,60 @@
+{
+	"$comment": "Curated editorial kits. Every skin was chosen by looking at its catalog image, never at its name, and every preferred variant was checked to exist. Array order is editorial order: kits appear in this order, and a kit's first four items form its cover. NEVER store prices, providers, totals or timestamps here — those are dynamic and come from the market service.",
+	"kits": [
+		{
+			"slug": "crimson",
+			"name": "Crimson",
+			"description": "Red across the rifles and pistols, kept on dark gunmetal bodies.",
+			"category": "color",
+			"tags": ["red", "black"],
+			"items": [
+				{ "skinSlug": "ak-47-redline", "variant": { "wear": "Field-Tested" } },
+				{ "skinSlug": "awp-redline", "variant": { "wear": "Field-Tested" } },
+				{ "skinSlug": "m4a1-s-hot-rod", "variant": { "wear": "Minimal Wear" } },
+				{ "skinSlug": "glock-18-candy-apple", "variant": { "wear": "Factory New" } },
+				{ "skinSlug": "usp-s-check-engine", "variant": { "wear": "Minimal Wear" } }
+			]
+		},
+		{
+			"slug": "monochrome",
+			"name": "Monochrome",
+			"description": "White and silver finishes against matte black, with no third colour.",
+			"category": "color",
+			"tags": ["white", "black", "clean"],
+			"items": [
+				{ "skinSlug": "m4a1-s-printstream", "variant": { "wear": "Minimal Wear" } },
+				{ "skinSlug": "awp-printstream", "variant": { "wear": "Minimal Wear" } },
+				{ "skinSlug": "usp-s-whiteout", "variant": { "wear": "Minimal Wear" } },
+				{ "skinSlug": "ak-47-slate", "variant": { "wear": "Field-Tested" } }
+			]
+		},
+		{
+			"slug": "cobalt",
+			"name": "Cobalt",
+			"description": "Deep blues, from painted slides to blue-laminated wood.",
+			"category": "color",
+			"tags": ["blue"],
+			"items": [
+				{ "skinSlug": "ak-47-blue-laminate", "variant": { "wear": "Field-Tested" } },
+				{ "skinSlug": "m4a1-s-bright-water", "variant": { "wear": "Minimal Wear" } },
+				{ "skinSlug": "awp-silk-tiger", "variant": { "wear": "Field-Tested" } },
+				{ "skinSlug": "glock-18-ocean-topo", "variant": { "wear": "Field-Tested" } },
+				{ "skinSlug": "usp-s-blueprint", "variant": { "wear": "Minimal Wear" } }
+			]
+		},
+		{
+			"slug": "midnight",
+			"name": "Midnight",
+			"description": "Matte, near-black finishes for a loadout that stays quiet.",
+			"category": "style",
+			"tags": ["dark", "minimal", "black"],
+			"items": [
+				{ "skinSlug": "ak-47-black-laminate", "variant": { "wear": "Field-Tested" } },
+				{ "skinSlug": "awp-graphite", "variant": { "wear": "Minimal Wear" } },
+				{ "skinSlug": "m4a1-s-basilisk", "variant": { "wear": "Field-Tested" } },
+				{ "skinSlug": "usp-s-night-ops", "variant": { "wear": "Field-Tested" } },
+				{ "skinSlug": "glock-18-night", "variant": { "wear": "Field-Tested" } }
+			]
+		}
+	]
+}

@@ -1,0 +1,39 @@
+# Everything the image does not need, and everything it must never contain.
+
+# Secrets. The image is secret-independent; the host injects at runtime.
+.env
+.env.*
+!.env.example
+
+# Installed and built artefacts — the image builds its own.
+node_modules
+build
+.svelte-kit
+
+# Tests, tooling and local output.
+e2e
+test-results
+playwright-report
+blob-report
+playwright
+coverage
+*.spec.ts
+*.test.ts
+vitest-setup-client.ts
+playwright.config.ts
+
+# Editor and OS noise.
+.idea
+.vscode
+.DS_Store
+Thumbs.db
+
+# Version control and docs: neither is served.
+.git
+.github
+docs
+README.md
+CLAUDE.md
+
+# Local logs and scratch.
+*.log

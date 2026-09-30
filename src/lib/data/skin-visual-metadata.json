@@ -1,0 +1,1293 @@
+{
+	"$comment": "Curated product-level visual metadata. Every record was written after looking at the skin image, never at its name — see docs/VISUAL_METADATA.md. Coverage is deliberately partial: this is a verified starter pool for the Smart Loadout core slots, not a classification of the whole catalog. Never store prices, providers, quantities, timestamps or any other dynamic market data here.",
+	"records": [
+		{
+			"key": "ak-47::asiimov",
+			"weapon": "AK-47",
+			"skinName": "Asiimov",
+			"primaryColors": ["white", "orange"],
+			"secondaryColors": ["black"],
+			"styles": ["futuristic"]
+		},
+		{
+			"key": "ak-47::black laminate",
+			"weapon": "AK-47",
+			"skinName": "Black Laminate",
+			"primaryColors": ["black"],
+			"secondaryColors": [],
+			"styles": ["dark", "minimal"]
+		},
+		{
+			"key": "ak-47::bloodsport",
+			"weapon": "AK-47",
+			"skinName": "Bloodsport",
+			"primaryColors": ["red", "black"],
+			"secondaryColors": ["white"],
+			"styles": []
+		},
+		{
+			"key": "ak-47::blue laminate",
+			"weapon": "AK-47",
+			"skinName": "Blue Laminate",
+			"primaryColors": ["blue"],
+			"secondaryColors": ["black"],
+			"styles": ["classic"]
+		},
+		{
+			"key": "ak-47::first class",
+			"weapon": "AK-47",
+			"skinName": "First Class",
+			"primaryColors": ["green"],
+			"secondaryColors": [],
+			"styles": ["military"]
+		},
+		{
+			"key": "ak-47::gold arabesque",
+			"weapon": "AK-47",
+			"skinName": "Gold Arabesque",
+			"primaryColors": ["gold", "black"],
+			"secondaryColors": [],
+			"styles": ["classic"]
+		},
+		{
+			"key": "ak-47::green laminate",
+			"weapon": "AK-47",
+			"skinName": "Green Laminate",
+			"primaryColors": ["green"],
+			"secondaryColors": ["black"],
+			"styles": ["classic"]
+		},
+		{
+			"key": "ak-47::hydroponic",
+			"weapon": "AK-47",
+			"skinName": "Hydroponic",
+			"primaryColors": ["green", "black"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "ak-47::ice coaled",
+			"weapon": "AK-47",
+			"skinName": "Ice Coaled",
+			"primaryColors": ["cyan", "black"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "ak-47::jungle spray",
+			"weapon": "AK-47",
+			"skinName": "Jungle Spray",
+			"primaryColors": ["green"],
+			"secondaryColors": [],
+			"styles": ["military"]
+		},
+		{
+			"key": "ak-47::midnight laminate",
+			"weapon": "AK-47",
+			"skinName": "Midnight Laminate",
+			"primaryColors": ["blue", "black"],
+			"secondaryColors": [],
+			"styles": ["dark", "classic"]
+		},
+		{
+			"key": "ak-47::neon rider",
+			"weapon": "AK-47",
+			"skinName": "Neon Rider",
+			"primaryColors": ["pink", "purple"],
+			"secondaryColors": ["cyan"],
+			"styles": ["neon", "colorful"]
+		},
+		{
+			"key": "ak-47::nightwish",
+			"weapon": "AK-47",
+			"skinName": "Nightwish",
+			"primaryColors": ["multicolor"],
+			"secondaryColors": [],
+			"styles": ["colorful"]
+		},
+		{
+			"key": "ak-47::olive polycam",
+			"weapon": "AK-47",
+			"skinName": "Olive Polycam",
+			"primaryColors": ["green"],
+			"secondaryColors": [],
+			"styles": ["military"]
+		},
+		{
+			"key": "ak-47::red laminate",
+			"weapon": "AK-47",
+			"skinName": "Red Laminate",
+			"primaryColors": ["red"],
+			"secondaryColors": ["black"],
+			"styles": ["classic"]
+		},
+		{
+			"key": "ak-47::redline",
+			"weapon": "AK-47",
+			"skinName": "Redline",
+			"primaryColors": ["red", "black"],
+			"secondaryColors": [],
+			"styles": ["dark"]
+		},
+		{
+			"key": "ak-47::safari mesh",
+			"weapon": "AK-47",
+			"skinName": "Safari Mesh",
+			"primaryColors": ["brown", "green"],
+			"secondaryColors": [],
+			"styles": ["military"]
+		},
+		{
+			"key": "ak-47::slate",
+			"weapon": "AK-47",
+			"skinName": "Slate",
+			"primaryColors": ["gray", "black"],
+			"secondaryColors": [],
+			"styles": ["minimal", "dark"]
+		},
+		{
+			"key": "ak-47::wintergreen",
+			"weapon": "AK-47",
+			"skinName": "Wintergreen",
+			"primaryColors": ["green", "white"],
+			"secondaryColors": [],
+			"styles": ["clean"]
+		},
+		{
+			"key": "ak-47::x-ray",
+			"weapon": "AK-47",
+			"skinName": "X-Ray",
+			"primaryColors": ["red"],
+			"secondaryColors": ["white"],
+			"styles": []
+		},
+		{
+			"key": "awp::asiimov",
+			"weapon": "AWP",
+			"skinName": "Asiimov",
+			"primaryColors": ["white", "orange"],
+			"secondaryColors": ["black"],
+			"styles": ["futuristic"]
+		},
+		{
+			"key": "awp::black box",
+			"weapon": "AWP",
+			"skinName": "Black Box",
+			"primaryColors": ["black", "gray"],
+			"secondaryColors": [],
+			"styles": ["dark", "minimal"]
+		},
+		{
+			"key": "awp::boom",
+			"weapon": "AWP",
+			"skinName": "BOOM",
+			"primaryColors": ["orange"],
+			"secondaryColors": [],
+			"styles": ["colorful"]
+		},
+		{
+			"key": "awp::containment breach",
+			"weapon": "AWP",
+			"skinName": "Containment Breach",
+			"primaryColors": ["green", "yellow"],
+			"secondaryColors": [],
+			"styles": ["neon"]
+		},
+		{
+			"key": "awp::corticera",
+			"weapon": "AWP",
+			"skinName": "Corticera",
+			"primaryColors": ["blue", "cyan"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "awp::elite build",
+			"weapon": "AWP",
+			"skinName": "Elite Build",
+			"primaryColors": ["green", "black"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "awp::graphite",
+			"weapon": "AWP",
+			"skinName": "Graphite",
+			"primaryColors": ["gray", "black"],
+			"secondaryColors": [],
+			"styles": ["minimal", "dark"]
+		},
+		{
+			"key": "awp::green energy",
+			"weapon": "AWP",
+			"skinName": "Green Energy",
+			"primaryColors": ["green"],
+			"secondaryColors": [],
+			"styles": ["neon"]
+		},
+		{
+			"key": "awp::lightning strike",
+			"weapon": "AWP",
+			"skinName": "Lightning Strike",
+			"primaryColors": ["purple", "white"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "awp::pink ddpat",
+			"weapon": "AWP",
+			"skinName": "Pink DDPAT",
+			"primaryColors": ["pink"],
+			"secondaryColors": [],
+			"styles": ["military"]
+		},
+		{
+			"key": "awp::pit viper",
+			"weapon": "AWP",
+			"skinName": "Pit Viper",
+			"primaryColors": ["green", "black"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "awp::printstream",
+			"weapon": "AWP",
+			"skinName": "Printstream",
+			"primaryColors": ["white", "black"],
+			"secondaryColors": [],
+			"styles": ["clean"]
+		},
+		{
+			"key": "awp::redline",
+			"weapon": "AWP",
+			"skinName": "Redline",
+			"primaryColors": ["black", "red"],
+			"secondaryColors": [],
+			"styles": ["dark"]
+		},
+		{
+			"key": "awp::silk tiger",
+			"weapon": "AWP",
+			"skinName": "Silk Tiger",
+			"primaryColors": ["blue", "cyan"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "awp::sun in leo",
+			"weapon": "AWP",
+			"skinName": "Sun in Leo",
+			"primaryColors": ["blue", "purple"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "awp::wildfire",
+			"weapon": "AWP",
+			"skinName": "Wildfire",
+			"primaryColors": ["red", "orange"],
+			"secondaryColors": [],
+			"styles": ["colorful"]
+		},
+		{
+			"key": "bayonet::bright water",
+			"weapon": "Bayonet",
+			"skinName": "Bright Water",
+			"primaryColors": ["blue", "white"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "bayonet::forest ddpat",
+			"weapon": "Bayonet",
+			"skinName": "Forest DDPAT",
+			"primaryColors": ["green", "brown"],
+			"secondaryColors": [],
+			"styles": ["military"]
+		},
+		{
+			"key": "bayonet::lore",
+			"weapon": "Bayonet",
+			"skinName": "Lore",
+			"primaryColors": ["gold"],
+			"secondaryColors": [],
+			"styles": ["classic"]
+		},
+		{
+			"key": "bayonet::night",
+			"weapon": "Bayonet",
+			"skinName": "Night",
+			"primaryColors": ["black"],
+			"secondaryColors": [],
+			"styles": ["dark", "minimal"]
+		},
+		{
+			"key": "butterfly knife::damascus steel",
+			"weapon": "Butterfly Knife",
+			"skinName": "Damascus Steel",
+			"primaryColors": ["silver", "gray"],
+			"secondaryColors": [],
+			"styles": ["minimal"]
+		},
+		{
+			"key": "butterfly knife::gamma doppler",
+			"weapon": "Butterfly Knife",
+			"skinName": "Gamma Doppler",
+			"primaryColors": ["green"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "butterfly knife::night",
+			"weapon": "Butterfly Knife",
+			"skinName": "Night",
+			"primaryColors": ["black"],
+			"secondaryColors": [],
+			"styles": ["dark", "minimal"]
+		},
+		{
+			"key": "butterfly knife::slaughter",
+			"weapon": "Butterfly Knife",
+			"skinName": "Slaughter",
+			"primaryColors": ["red", "pink"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "butterfly knife::tiger tooth",
+			"weapon": "Butterfly Knife",
+			"skinName": "Tiger Tooth",
+			"primaryColors": ["gold", "orange"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "butterfly knife::ultraviolet",
+			"weapon": "Butterfly Knife",
+			"skinName": "Ultraviolet",
+			"primaryColors": ["purple"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "desert eagle::blaze",
+			"weapon": "Desert Eagle",
+			"skinName": "Blaze",
+			"primaryColors": ["orange", "black"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "desert eagle::blue ply",
+			"weapon": "Desert Eagle",
+			"skinName": "Blue Ply",
+			"primaryColors": ["blue"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "desert eagle::cobalt disruption",
+			"weapon": "Desert Eagle",
+			"skinName": "Cobalt Disruption",
+			"primaryColors": ["blue"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "desert eagle::code red",
+			"weapon": "Desert Eagle",
+			"skinName": "Code Red",
+			"primaryColors": ["red"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "desert eagle::crimson web",
+			"weapon": "Desert Eagle",
+			"skinName": "Crimson Web",
+			"primaryColors": ["red", "black"],
+			"secondaryColors": [],
+			"styles": ["dark"]
+		},
+		{
+			"key": "desert eagle::emerald jörmungandr",
+			"weapon": "Desert Eagle",
+			"skinName": "Emerald Jörmungandr",
+			"primaryColors": ["green"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "desert eagle::golden koi",
+			"weapon": "Desert Eagle",
+			"skinName": "Golden Koi",
+			"primaryColors": ["white", "gold"],
+			"secondaryColors": [],
+			"styles": ["clean"]
+		},
+		{
+			"key": "desert eagle::midnight storm",
+			"weapon": "Desert Eagle",
+			"skinName": "Midnight Storm",
+			"primaryColors": ["cyan", "blue"],
+			"secondaryColors": [],
+			"styles": ["dark"]
+		},
+		{
+			"key": "desert eagle::mudder",
+			"weapon": "Desert Eagle",
+			"skinName": "Mudder",
+			"primaryColors": ["brown"],
+			"secondaryColors": [],
+			"styles": ["military"]
+		},
+		{
+			"key": "desert eagle::mulberry",
+			"weapon": "Desert Eagle",
+			"skinName": "Mulberry",
+			"primaryColors": ["pink", "purple"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "desert eagle::night",
+			"weapon": "Desert Eagle",
+			"skinName": "Night",
+			"primaryColors": ["black"],
+			"secondaryColors": [],
+			"styles": ["dark", "minimal"]
+		},
+		{
+			"key": "desert eagle::ocean drive",
+			"weapon": "Desert Eagle",
+			"skinName": "Ocean Drive",
+			"primaryColors": ["multicolor"],
+			"secondaryColors": [],
+			"styles": ["neon", "colorful"]
+		},
+		{
+			"key": "desert eagle::printstream",
+			"weapon": "Desert Eagle",
+			"skinName": "Printstream",
+			"primaryColors": ["white", "black"],
+			"secondaryColors": [],
+			"styles": ["clean"]
+		},
+		{
+			"key": "desert eagle::starcade",
+			"weapon": "Desert Eagle",
+			"skinName": "Starcade",
+			"primaryColors": ["purple", "cyan"],
+			"secondaryColors": [],
+			"styles": ["neon"]
+		},
+		{
+			"key": "driver gloves::black tie",
+			"weapon": "Driver Gloves",
+			"skinName": "Black Tie",
+			"primaryColors": ["black", "white"],
+			"secondaryColors": [],
+			"styles": ["minimal"]
+		},
+		{
+			"key": "driver gloves::crimson weave",
+			"weapon": "Driver Gloves",
+			"skinName": "Crimson Weave",
+			"primaryColors": ["red"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "driver gloves::imperial plaid",
+			"weapon": "Driver Gloves",
+			"skinName": "Imperial Plaid",
+			"primaryColors": ["purple"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "driver gloves::plum quill",
+			"weapon": "Driver Gloves",
+			"skinName": "Plum Quill",
+			"primaryColors": ["purple"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "driver gloves::racing green",
+			"weapon": "Driver Gloves",
+			"skinName": "Racing Green",
+			"primaryColors": ["green", "black"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "driver gloves::snow leopard",
+			"weapon": "Driver Gloves",
+			"skinName": "Snow Leopard",
+			"primaryColors": ["white", "black"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "glock-18::axia",
+			"weapon": "Glock-18",
+			"skinName": "AXIA",
+			"primaryColors": ["cyan", "black"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "glock-18::blue fissure",
+			"weapon": "Glock-18",
+			"skinName": "Blue Fissure",
+			"primaryColors": ["blue", "gray"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "glock-18::brass",
+			"weapon": "Glock-18",
+			"skinName": "Brass",
+			"primaryColors": ["gold"],
+			"secondaryColors": [],
+			"styles": ["minimal"]
+		},
+		{
+			"key": "glock-18::candy apple",
+			"weapon": "Glock-18",
+			"skinName": "Candy Apple",
+			"primaryColors": ["red"],
+			"secondaryColors": [],
+			"styles": ["minimal", "clean"]
+		},
+		{
+			"key": "glock-18::glockingbird",
+			"weapon": "Glock-18",
+			"skinName": "Glockingbird",
+			"primaryColors": ["yellow", "black"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "glock-18::green line",
+			"weapon": "Glock-18",
+			"skinName": "Green Line",
+			"primaryColors": ["green", "black"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "glock-18::groundwater",
+			"weapon": "Glock-18",
+			"skinName": "Groundwater",
+			"primaryColors": ["green"],
+			"secondaryColors": [],
+			"styles": ["minimal"]
+		},
+		{
+			"key": "glock-18::moonrise",
+			"weapon": "Glock-18",
+			"skinName": "Moonrise",
+			"primaryColors": ["purple", "black"],
+			"secondaryColors": [],
+			"styles": ["dark"]
+		},
+		{
+			"key": "glock-18::night",
+			"weapon": "Glock-18",
+			"skinName": "Night",
+			"primaryColors": ["black"],
+			"secondaryColors": [],
+			"styles": ["dark", "minimal"]
+		},
+		{
+			"key": "glock-18::nuclear garden",
+			"weapon": "Glock-18",
+			"skinName": "Nuclear Garden",
+			"primaryColors": ["green", "yellow"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "glock-18::ocean topo",
+			"weapon": "Glock-18",
+			"skinName": "Ocean Topo",
+			"primaryColors": ["blue"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "glock-18::pink ddpat",
+			"weapon": "Glock-18",
+			"skinName": "Pink DDPAT",
+			"primaryColors": ["pink"],
+			"secondaryColors": [],
+			"styles": ["military"]
+		},
+		{
+			"key": "glock-18::sand dune",
+			"weapon": "Glock-18",
+			"skinName": "Sand Dune",
+			"primaryColors": ["brown"],
+			"secondaryColors": [],
+			"styles": ["minimal", "military"]
+		},
+		{
+			"key": "glock-18::twilight galaxy",
+			"weapon": "Glock-18",
+			"skinName": "Twilight Galaxy",
+			"primaryColors": ["blue", "black"],
+			"secondaryColors": [],
+			"styles": ["dark"]
+		},
+		{
+			"key": "hand wraps::caution!",
+			"weapon": "Hand Wraps",
+			"skinName": "CAUTION!",
+			"primaryColors": ["yellow", "black"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "hand wraps::cobalt skulls",
+			"weapon": "Hand Wraps",
+			"skinName": "Cobalt Skulls",
+			"primaryColors": ["blue"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "hand wraps::slaughter",
+			"weapon": "Hand Wraps",
+			"skinName": "Slaughter",
+			"primaryColors": ["red"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "hydra gloves::emerald",
+			"weapon": "Hydra Gloves",
+			"skinName": "Emerald",
+			"primaryColors": ["green"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "karambit::blue steel",
+			"weapon": "Karambit",
+			"skinName": "Blue Steel",
+			"primaryColors": ["blue", "gray"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "karambit::boreal forest",
+			"weapon": "Karambit",
+			"skinName": "Boreal Forest",
+			"primaryColors": ["green"],
+			"secondaryColors": [],
+			"styles": ["military"]
+		},
+		{
+			"key": "karambit::bright water",
+			"weapon": "Karambit",
+			"skinName": "Bright Water",
+			"primaryColors": ["blue", "white"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "karambit::crimson web",
+			"weapon": "Karambit",
+			"skinName": "Crimson Web",
+			"primaryColors": ["red", "black"],
+			"secondaryColors": [],
+			"styles": ["dark"]
+		},
+		{
+			"key": "karambit::damascus steel",
+			"weapon": "Karambit",
+			"skinName": "Damascus Steel",
+			"primaryColors": ["silver", "gray"],
+			"secondaryColors": [],
+			"styles": ["minimal"]
+		},
+		{
+			"key": "karambit::freehand",
+			"weapon": "Karambit",
+			"skinName": "Freehand",
+			"primaryColors": ["white", "black"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "karambit::gamma doppler",
+			"weapon": "Karambit",
+			"skinName": "Gamma Doppler",
+			"primaryColors": ["green"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "karambit::lore",
+			"weapon": "Karambit",
+			"skinName": "Lore",
+			"primaryColors": ["gold"],
+			"secondaryColors": [],
+			"styles": ["classic"]
+		},
+		{
+			"key": "karambit::night",
+			"weapon": "Karambit",
+			"skinName": "Night",
+			"primaryColors": ["black"],
+			"secondaryColors": [],
+			"styles": ["dark", "minimal"]
+		},
+		{
+			"key": "karambit::rust coat",
+			"weapon": "Karambit",
+			"skinName": "Rust Coat",
+			"primaryColors": ["brown"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "karambit::slaughter",
+			"weapon": "Karambit",
+			"skinName": "Slaughter",
+			"primaryColors": ["red", "pink"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "karambit::tiger tooth",
+			"weapon": "Karambit",
+			"skinName": "Tiger Tooth",
+			"primaryColors": ["gold", "orange"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "karambit::ultraviolet",
+			"weapon": "Karambit",
+			"skinName": "Ultraviolet",
+			"primaryColors": ["purple"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "m4a1-s::basilisk",
+			"weapon": "M4A1-S",
+			"skinName": "Basilisk",
+			"primaryColors": ["black", "gray"],
+			"secondaryColors": [],
+			"styles": ["dark"]
+		},
+		{
+			"key": "m4a1-s::blue phosphor",
+			"weapon": "M4A1-S",
+			"skinName": "Blue Phosphor",
+			"primaryColors": ["blue", "black"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "m4a1-s::boreal forest",
+			"weapon": "M4A1-S",
+			"skinName": "Boreal Forest",
+			"primaryColors": ["green"],
+			"secondaryColors": [],
+			"styles": ["military"]
+		},
+		{
+			"key": "m4a1-s::bright water",
+			"weapon": "M4A1-S",
+			"skinName": "Bright Water",
+			"primaryColors": ["blue", "white"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "m4a1-s::dark water",
+			"weapon": "M4A1-S",
+			"skinName": "Dark Water",
+			"primaryColors": ["black", "blue"],
+			"secondaryColors": [],
+			"styles": ["dark"]
+		},
+		{
+			"key": "m4a1-s::emphorosaur-s",
+			"weapon": "M4A1-S",
+			"skinName": "Emphorosaur-S",
+			"primaryColors": ["green", "yellow"],
+			"secondaryColors": [],
+			"styles": ["colorful"]
+		},
+		{
+			"key": "m4a1-s::fade",
+			"weapon": "M4A1-S",
+			"skinName": "Fade",
+			"primaryColors": ["pink", "purple"],
+			"secondaryColors": [],
+			"styles": ["colorful"]
+		},
+		{
+			"key": "m4a1-s::golden coil",
+			"weapon": "M4A1-S",
+			"skinName": "Golden Coil",
+			"primaryColors": ["gold", "black"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "m4a1-s::guardian",
+			"weapon": "M4A1-S",
+			"skinName": "Guardian",
+			"primaryColors": ["blue", "gray"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "m4a1-s::hot rod",
+			"weapon": "M4A1-S",
+			"skinName": "Hot Rod",
+			"primaryColors": ["red"],
+			"secondaryColors": [],
+			"styles": ["clean"]
+		},
+		{
+			"key": "m4a1-s::icarus fell",
+			"weapon": "M4A1-S",
+			"skinName": "Icarus Fell",
+			"primaryColors": ["cyan", "gold"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "m4a1-s::mecha industries",
+			"weapon": "M4A1-S",
+			"skinName": "Mecha Industries",
+			"primaryColors": ["white", "gray"],
+			"secondaryColors": [],
+			"styles": ["clean", "futuristic"]
+		},
+		{
+			"key": "m4a1-s::moss quartz",
+			"weapon": "M4A1-S",
+			"skinName": "Moss Quartz",
+			"primaryColors": ["green"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "m4a1-s::printstream",
+			"weapon": "M4A1-S",
+			"skinName": "Printstream",
+			"primaryColors": ["white", "black"],
+			"secondaryColors": [],
+			"styles": ["clean"]
+		},
+		{
+			"key": "m4a1-s::varicamo",
+			"weapon": "M4A1-S",
+			"skinName": "VariCamo",
+			"primaryColors": ["brown"],
+			"secondaryColors": [],
+			"styles": ["military"]
+		},
+		{
+			"key": "m4a4::asiimov",
+			"weapon": "M4A4",
+			"skinName": "Asiimov",
+			"primaryColors": ["white", "orange"],
+			"secondaryColors": ["black"],
+			"styles": ["futuristic"]
+		},
+		{
+			"key": "m4a4::choppa",
+			"weapon": "M4A4",
+			"skinName": "Choppa",
+			"primaryColors": ["green"],
+			"secondaryColors": [],
+			"styles": ["military"]
+		},
+		{
+			"key": "m4a4::dark operative",
+			"weapon": "M4A4",
+			"skinName": "Dark Operative",
+			"primaryColors": ["black"],
+			"secondaryColors": [],
+			"styles": ["dark"]
+		},
+		{
+			"key": "m4a4::desolate space",
+			"weapon": "M4A4",
+			"skinName": "Desolate Space",
+			"primaryColors": ["purple", "blue"],
+			"secondaryColors": [],
+			"styles": ["futuristic"]
+		},
+		{
+			"key": "m4a4::evil daimyo",
+			"weapon": "M4A4",
+			"skinName": "Evil Daimyo",
+			"primaryColors": ["red", "gray"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "m4a4::full throttle",
+			"weapon": "M4A4",
+			"skinName": "Full Throttle",
+			"primaryColors": ["green", "yellow"],
+			"secondaryColors": [],
+			"styles": ["colorful"]
+		},
+		{
+			"key": "m4a4::magnesium",
+			"weapon": "M4A4",
+			"skinName": "Magnesium",
+			"primaryColors": ["white", "gray"],
+			"secondaryColors": [],
+			"styles": ["clean", "minimal"]
+		},
+		{
+			"key": "m4a4::neo-noir",
+			"weapon": "M4A4",
+			"skinName": "Neo-Noir",
+			"primaryColors": ["pink", "black"],
+			"secondaryColors": ["white"],
+			"styles": []
+		},
+		{
+			"key": "m4a4::poseidon",
+			"weapon": "M4A4",
+			"skinName": "Poseidon",
+			"primaryColors": ["cyan", "white"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "m4a4::red ddpat",
+			"weapon": "M4A4",
+			"skinName": "Red DDPAT",
+			"primaryColors": ["red"],
+			"secondaryColors": [],
+			"styles": ["military"]
+		},
+		{
+			"key": "m4a4::the emperor",
+			"weapon": "M4A4",
+			"skinName": "The Emperor",
+			"primaryColors": ["blue", "gold"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "m4a4::urban ddpat",
+			"weapon": "M4A4",
+			"skinName": "Urban DDPAT",
+			"primaryColors": ["white", "gray", "black"],
+			"secondaryColors": [],
+			"styles": ["military"]
+		},
+		{
+			"key": "m9 bayonet::blue steel",
+			"weapon": "M9 Bayonet",
+			"skinName": "Blue Steel",
+			"primaryColors": ["blue", "gray"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "m9 bayonet::crimson web",
+			"weapon": "M9 Bayonet",
+			"skinName": "Crimson Web",
+			"primaryColors": ["red", "black"],
+			"secondaryColors": [],
+			"styles": ["dark"]
+		},
+		{
+			"key": "m9 bayonet::freehand",
+			"weapon": "M9 Bayonet",
+			"skinName": "Freehand",
+			"primaryColors": ["white", "black"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "m9 bayonet::tiger tooth",
+			"weapon": "M9 Bayonet",
+			"skinName": "Tiger Tooth",
+			"primaryColors": ["gold", "orange"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "m9 bayonet::ultraviolet",
+			"weapon": "M9 Bayonet",
+			"skinName": "Ultraviolet",
+			"primaryColors": ["purple"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "moto gloves::cool mint",
+			"weapon": "Moto Gloves",
+			"skinName": "Cool Mint",
+			"primaryColors": ["cyan", "white"],
+			"secondaryColors": [],
+			"styles": ["clean"]
+		},
+		{
+			"key": "moto gloves::eclipse",
+			"weapon": "Moto Gloves",
+			"skinName": "Eclipse",
+			"primaryColors": ["black", "gray"],
+			"secondaryColors": [],
+			"styles": ["dark"]
+		},
+		{
+			"key": "moto gloves::turtle",
+			"weapon": "Moto Gloves",
+			"skinName": "Turtle",
+			"primaryColors": ["green"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "specialist gloves::blackbook",
+			"weapon": "Specialist Gloves",
+			"skinName": "Blackbook",
+			"primaryColors": ["black", "white"],
+			"secondaryColors": [],
+			"styles": ["dark"]
+		},
+		{
+			"key": "specialist gloves::cloud chaser",
+			"weapon": "Specialist Gloves",
+			"skinName": "Cloud Chaser",
+			"primaryColors": ["blue", "purple"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "specialist gloves::crimson web",
+			"weapon": "Specialist Gloves",
+			"skinName": "Crimson Web",
+			"primaryColors": ["red", "black"],
+			"secondaryColors": [],
+			"styles": ["dark"]
+		},
+		{
+			"key": "specialist gloves::lime polycam",
+			"weapon": "Specialist Gloves",
+			"skinName": "Lime Polycam",
+			"primaryColors": ["green"],
+			"secondaryColors": [],
+			"styles": ["military"]
+		},
+		{
+			"key": "specialist gloves::pillow punchers",
+			"weapon": "Specialist Gloves",
+			"skinName": "Pillow Punchers",
+			"primaryColors": ["white"],
+			"secondaryColors": [],
+			"styles": ["clean", "minimal"]
+		},
+		{
+			"key": "sport gloves::frosty",
+			"weapon": "Sport Gloves",
+			"skinName": "Frosty",
+			"primaryColors": ["cyan", "white"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "sport gloves::nocts",
+			"weapon": "Sport Gloves",
+			"skinName": "Nocts",
+			"primaryColors": ["black", "gray"],
+			"secondaryColors": [],
+			"styles": ["dark", "minimal"]
+		},
+		{
+			"key": "sport gloves::pandora's box",
+			"weapon": "Sport Gloves",
+			"skinName": "Pandora's Box",
+			"primaryColors": ["purple"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "sport gloves::red racer",
+			"weapon": "Sport Gloves",
+			"skinName": "Red Racer",
+			"primaryColors": ["red", "white"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "sport gloves::scarlet shamagh",
+			"weapon": "Sport Gloves",
+			"skinName": "Scarlet Shamagh",
+			"primaryColors": ["red", "black"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "sport gloves::ultra violent",
+			"weapon": "Sport Gloves",
+			"skinName": "Ultra Violent",
+			"primaryColors": ["purple", "cyan"],
+			"secondaryColors": [],
+			"styles": ["colorful"]
+		},
+		{
+			"key": "sport gloves::vice",
+			"weapon": "Sport Gloves",
+			"skinName": "Vice",
+			"primaryColors": ["pink", "cyan"],
+			"secondaryColors": ["purple"],
+			"styles": ["neon", "colorful"]
+		},
+		{
+			"key": "talon knife::blue steel",
+			"weapon": "Talon Knife",
+			"skinName": "Blue Steel",
+			"primaryColors": ["blue", "gray"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "talon knife::crimson web",
+			"weapon": "Talon Knife",
+			"skinName": "Crimson Web",
+			"primaryColors": ["red", "black"],
+			"secondaryColors": [],
+			"styles": ["dark"]
+		},
+		{
+			"key": "talon knife::ultraviolet",
+			"weapon": "Talon Knife",
+			"skinName": "Ultraviolet",
+			"primaryColors": ["purple"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "usp-s::bleeding edge",
+			"weapon": "USP-S",
+			"skinName": "Bleeding Edge",
+			"primaryColors": ["red", "black"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "usp-s::blueprint",
+			"weapon": "USP-S",
+			"skinName": "Blueprint",
+			"primaryColors": ["blue"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "usp-s::check engine",
+			"weapon": "USP-S",
+			"skinName": "Check Engine",
+			"primaryColors": ["red", "black"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "usp-s::cortex",
+			"weapon": "USP-S",
+			"skinName": "Cortex",
+			"primaryColors": ["pink", "white"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "usp-s::forest leaves",
+			"weapon": "USP-S",
+			"skinName": "Forest Leaves",
+			"primaryColors": ["green"],
+			"secondaryColors": [],
+			"styles": ["military"]
+		},
+		{
+			"key": "usp-s::night ops",
+			"weapon": "USP-S",
+			"skinName": "Night Ops",
+			"primaryColors": ["black"],
+			"secondaryColors": [],
+			"styles": ["dark", "military"]
+		},
+		{
+			"key": "usp-s::orion",
+			"weapon": "USP-S",
+			"skinName": "Orion",
+			"primaryColors": ["orange", "black"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "usp-s::para green",
+			"weapon": "USP-S",
+			"skinName": "Para Green",
+			"primaryColors": ["green", "black"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "usp-s::printstream",
+			"weapon": "USP-S",
+			"skinName": "Printstream",
+			"primaryColors": ["white", "black"],
+			"secondaryColors": [],
+			"styles": ["clean"]
+		},
+		{
+			"key": "usp-s::purple ddpat",
+			"weapon": "USP-S",
+			"skinName": "Purple DDPAT",
+			"primaryColors": ["purple"],
+			"secondaryColors": [],
+			"styles": ["military"]
+		},
+		{
+			"key": "usp-s::royal blue",
+			"weapon": "USP-S",
+			"skinName": "Royal Blue",
+			"primaryColors": ["blue"],
+			"secondaryColors": [],
+			"styles": ["minimal"]
+		},
+		{
+			"key": "usp-s::sleeping potion",
+			"weapon": "USP-S",
+			"skinName": "Sleeping Potion",
+			"primaryColors": ["purple"],
+			"secondaryColors": [],
+			"styles": []
+		},
+		{
+			"key": "usp-s::stainless",
+			"weapon": "USP-S",
+			"skinName": "Stainless",
+			"primaryColors": ["black", "silver"],
+			"secondaryColors": [],
+			"styles": ["minimal"]
+		},
+		{
+			"key": "usp-s::whiteout",
+			"weapon": "USP-S",
+			"skinName": "Whiteout",
+			"primaryColors": ["white"],
+			"secondaryColors": [],
+			"styles": ["clean", "minimal"]
+		}
+	]
+}

@@ -1,0 +1,971 @@
+{
+	"$comment": "Catalog identities for exactly the skins in skin-visual-metadata.json, snapshotted from the live CS2Cap catalog on 2026-09-23. It exists so tests can prove offline that every curated record names a real, correctly-spelled skin — adding a record means adding its catalog identity here too, which is a deliberate, reviewable step. NOT the catalog: this is 161 identities, not 21,524 entries, and it carries no prices, no item ids and no images.",
+	"skins": [
+		{
+			"key": "ak-47::asiimov",
+			"weapon": "AK-47",
+			"skinName": "Asiimov",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "ak-47::black laminate",
+			"weapon": "AK-47",
+			"skinName": "Black Laminate",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "ak-47::bloodsport",
+			"weapon": "AK-47",
+			"skinName": "Bloodsport",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "ak-47::blue laminate",
+			"weapon": "AK-47",
+			"skinName": "Blue Laminate",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "ak-47::first class",
+			"weapon": "AK-47",
+			"skinName": "First Class",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "ak-47::gold arabesque",
+			"weapon": "AK-47",
+			"skinName": "Gold Arabesque",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "ak-47::green laminate",
+			"weapon": "AK-47",
+			"skinName": "Green Laminate",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "ak-47::hydroponic",
+			"weapon": "AK-47",
+			"skinName": "Hydroponic",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "ak-47::ice coaled",
+			"weapon": "AK-47",
+			"skinName": "Ice Coaled",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "ak-47::jungle spray",
+			"weapon": "AK-47",
+			"skinName": "Jungle Spray",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "ak-47::midnight laminate",
+			"weapon": "AK-47",
+			"skinName": "Midnight Laminate",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "ak-47::neon rider",
+			"weapon": "AK-47",
+			"skinName": "Neon Rider",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "ak-47::nightwish",
+			"weapon": "AK-47",
+			"skinName": "Nightwish",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "ak-47::olive polycam",
+			"weapon": "AK-47",
+			"skinName": "Olive Polycam",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "ak-47::red laminate",
+			"weapon": "AK-47",
+			"skinName": "Red Laminate",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "ak-47::redline",
+			"weapon": "AK-47",
+			"skinName": "Redline",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "ak-47::safari mesh",
+			"weapon": "AK-47",
+			"skinName": "Safari Mesh",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "ak-47::slate",
+			"weapon": "AK-47",
+			"skinName": "Slate",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "ak-47::wintergreen",
+			"weapon": "AK-47",
+			"skinName": "Wintergreen",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "ak-47::x-ray",
+			"weapon": "AK-47",
+			"skinName": "X-Ray",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "awp::asiimov",
+			"weapon": "AWP",
+			"skinName": "Asiimov",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "awp::black box",
+			"weapon": "AWP",
+			"skinName": "Black Box",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "awp::boom",
+			"weapon": "AWP",
+			"skinName": "BOOM",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "awp::containment breach",
+			"weapon": "AWP",
+			"skinName": "Containment Breach",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "awp::corticera",
+			"weapon": "AWP",
+			"skinName": "Corticera",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "awp::elite build",
+			"weapon": "AWP",
+			"skinName": "Elite Build",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "awp::graphite",
+			"weapon": "AWP",
+			"skinName": "Graphite",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "awp::green energy",
+			"weapon": "AWP",
+			"skinName": "Green Energy",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "awp::lightning strike",
+			"weapon": "AWP",
+			"skinName": "Lightning Strike",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "awp::pink ddpat",
+			"weapon": "AWP",
+			"skinName": "Pink DDPAT",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "awp::pit viper",
+			"weapon": "AWP",
+			"skinName": "Pit Viper",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "awp::printstream",
+			"weapon": "AWP",
+			"skinName": "Printstream",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "awp::redline",
+			"weapon": "AWP",
+			"skinName": "Redline",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "awp::silk tiger",
+			"weapon": "AWP",
+			"skinName": "Silk Tiger",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "awp::sun in leo",
+			"weapon": "AWP",
+			"skinName": "Sun in Leo",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "awp::wildfire",
+			"weapon": "AWP",
+			"skinName": "Wildfire",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "bayonet::bright water",
+			"weapon": "Bayonet",
+			"skinName": "Bright Water",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "bayonet::forest ddpat",
+			"weapon": "Bayonet",
+			"skinName": "Forest DDPAT",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "bayonet::lore",
+			"weapon": "Bayonet",
+			"skinName": "Lore",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "bayonet::night",
+			"weapon": "Bayonet",
+			"skinName": "Night",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "butterfly knife::damascus steel",
+			"weapon": "Butterfly Knife",
+			"skinName": "Damascus Steel",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "butterfly knife::gamma doppler",
+			"weapon": "Butterfly Knife",
+			"skinName": "Gamma Doppler",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "butterfly knife::night",
+			"weapon": "Butterfly Knife",
+			"skinName": "Night",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "butterfly knife::slaughter",
+			"weapon": "Butterfly Knife",
+			"skinName": "Slaughter",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "butterfly knife::tiger tooth",
+			"weapon": "Butterfly Knife",
+			"skinName": "Tiger Tooth",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "butterfly knife::ultraviolet",
+			"weapon": "Butterfly Knife",
+			"skinName": "Ultraviolet",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "desert eagle::blaze",
+			"weapon": "Desert Eagle",
+			"skinName": "Blaze",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "desert eagle::blue ply",
+			"weapon": "Desert Eagle",
+			"skinName": "Blue Ply",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "desert eagle::cobalt disruption",
+			"weapon": "Desert Eagle",
+			"skinName": "Cobalt Disruption",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "desert eagle::code red",
+			"weapon": "Desert Eagle",
+			"skinName": "Code Red",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "desert eagle::crimson web",
+			"weapon": "Desert Eagle",
+			"skinName": "Crimson Web",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "desert eagle::emerald jörmungandr",
+			"weapon": "Desert Eagle",
+			"skinName": "Emerald Jörmungandr",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "desert eagle::golden koi",
+			"weapon": "Desert Eagle",
+			"skinName": "Golden Koi",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "desert eagle::midnight storm",
+			"weapon": "Desert Eagle",
+			"skinName": "Midnight Storm",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "desert eagle::mudder",
+			"weapon": "Desert Eagle",
+			"skinName": "Mudder",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "desert eagle::mulberry",
+			"weapon": "Desert Eagle",
+			"skinName": "Mulberry",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "desert eagle::night",
+			"weapon": "Desert Eagle",
+			"skinName": "Night",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "desert eagle::ocean drive",
+			"weapon": "Desert Eagle",
+			"skinName": "Ocean Drive",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "desert eagle::printstream",
+			"weapon": "Desert Eagle",
+			"skinName": "Printstream",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "desert eagle::starcade",
+			"weapon": "Desert Eagle",
+			"skinName": "Starcade",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "driver gloves::black tie",
+			"weapon": "Driver Gloves",
+			"skinName": "Black Tie",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "driver gloves::crimson weave",
+			"weapon": "Driver Gloves",
+			"skinName": "Crimson Weave",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "driver gloves::imperial plaid",
+			"weapon": "Driver Gloves",
+			"skinName": "Imperial Plaid",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "driver gloves::plum quill",
+			"weapon": "Driver Gloves",
+			"skinName": "Plum Quill",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "driver gloves::racing green",
+			"weapon": "Driver Gloves",
+			"skinName": "Racing Green",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "driver gloves::snow leopard",
+			"weapon": "Driver Gloves",
+			"skinName": "Snow Leopard",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "glock-18::axia",
+			"weapon": "Glock-18",
+			"skinName": "AXIA",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "glock-18::blue fissure",
+			"weapon": "Glock-18",
+			"skinName": "Blue Fissure",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "glock-18::brass",
+			"weapon": "Glock-18",
+			"skinName": "Brass",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "glock-18::candy apple",
+			"weapon": "Glock-18",
+			"skinName": "Candy Apple",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "glock-18::glockingbird",
+			"weapon": "Glock-18",
+			"skinName": "Glockingbird",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "glock-18::green line",
+			"weapon": "Glock-18",
+			"skinName": "Green Line",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "glock-18::groundwater",
+			"weapon": "Glock-18",
+			"skinName": "Groundwater",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "glock-18::moonrise",
+			"weapon": "Glock-18",
+			"skinName": "Moonrise",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "glock-18::night",
+			"weapon": "Glock-18",
+			"skinName": "Night",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "glock-18::nuclear garden",
+			"weapon": "Glock-18",
+			"skinName": "Nuclear Garden",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "glock-18::ocean topo",
+			"weapon": "Glock-18",
+			"skinName": "Ocean Topo",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "glock-18::pink ddpat",
+			"weapon": "Glock-18",
+			"skinName": "Pink DDPAT",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "glock-18::sand dune",
+			"weapon": "Glock-18",
+			"skinName": "Sand Dune",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "glock-18::twilight galaxy",
+			"weapon": "Glock-18",
+			"skinName": "Twilight Galaxy",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "hand wraps::caution!",
+			"weapon": "Hand Wraps",
+			"skinName": "CAUTION!",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "hand wraps::cobalt skulls",
+			"weapon": "Hand Wraps",
+			"skinName": "Cobalt Skulls",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "hand wraps::slaughter",
+			"weapon": "Hand Wraps",
+			"skinName": "Slaughter",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "hydra gloves::emerald",
+			"weapon": "Hydra Gloves",
+			"skinName": "Emerald",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "karambit::blue steel",
+			"weapon": "Karambit",
+			"skinName": "Blue Steel",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "karambit::boreal forest",
+			"weapon": "Karambit",
+			"skinName": "Boreal Forest",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "karambit::bright water",
+			"weapon": "Karambit",
+			"skinName": "Bright Water",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "karambit::crimson web",
+			"weapon": "Karambit",
+			"skinName": "Crimson Web",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "karambit::damascus steel",
+			"weapon": "Karambit",
+			"skinName": "Damascus Steel",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "karambit::freehand",
+			"weapon": "Karambit",
+			"skinName": "Freehand",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "karambit::gamma doppler",
+			"weapon": "Karambit",
+			"skinName": "Gamma Doppler",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "karambit::lore",
+			"weapon": "Karambit",
+			"skinName": "Lore",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "karambit::night",
+			"weapon": "Karambit",
+			"skinName": "Night",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "karambit::rust coat",
+			"weapon": "Karambit",
+			"skinName": "Rust Coat",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "karambit::slaughter",
+			"weapon": "Karambit",
+			"skinName": "Slaughter",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "karambit::tiger tooth",
+			"weapon": "Karambit",
+			"skinName": "Tiger Tooth",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "karambit::ultraviolet",
+			"weapon": "Karambit",
+			"skinName": "Ultraviolet",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "m4a1-s::basilisk",
+			"weapon": "M4A1-S",
+			"skinName": "Basilisk",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a1-s::blue phosphor",
+			"weapon": "M4A1-S",
+			"skinName": "Blue Phosphor",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a1-s::boreal forest",
+			"weapon": "M4A1-S",
+			"skinName": "Boreal Forest",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a1-s::bright water",
+			"weapon": "M4A1-S",
+			"skinName": "Bright Water",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a1-s::dark water",
+			"weapon": "M4A1-S",
+			"skinName": "Dark Water",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a1-s::emphorosaur-s",
+			"weapon": "M4A1-S",
+			"skinName": "Emphorosaur-S",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a1-s::fade",
+			"weapon": "M4A1-S",
+			"skinName": "Fade",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a1-s::golden coil",
+			"weapon": "M4A1-S",
+			"skinName": "Golden Coil",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a1-s::guardian",
+			"weapon": "M4A1-S",
+			"skinName": "Guardian",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a1-s::hot rod",
+			"weapon": "M4A1-S",
+			"skinName": "Hot Rod",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a1-s::icarus fell",
+			"weapon": "M4A1-S",
+			"skinName": "Icarus Fell",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a1-s::mecha industries",
+			"weapon": "M4A1-S",
+			"skinName": "Mecha Industries",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a1-s::moss quartz",
+			"weapon": "M4A1-S",
+			"skinName": "Moss Quartz",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a1-s::printstream",
+			"weapon": "M4A1-S",
+			"skinName": "Printstream",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a1-s::varicamo",
+			"weapon": "M4A1-S",
+			"skinName": "VariCamo",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a4::asiimov",
+			"weapon": "M4A4",
+			"skinName": "Asiimov",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a4::choppa",
+			"weapon": "M4A4",
+			"skinName": "Choppa",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a4::dark operative",
+			"weapon": "M4A4",
+			"skinName": "Dark Operative",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a4::desolate space",
+			"weapon": "M4A4",
+			"skinName": "Desolate Space",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a4::evil daimyo",
+			"weapon": "M4A4",
+			"skinName": "Evil Daimyo",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a4::full throttle",
+			"weapon": "M4A4",
+			"skinName": "Full Throttle",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a4::magnesium",
+			"weapon": "M4A4",
+			"skinName": "Magnesium",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a4::neo-noir",
+			"weapon": "M4A4",
+			"skinName": "Neo-Noir",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a4::poseidon",
+			"weapon": "M4A4",
+			"skinName": "Poseidon",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a4::red ddpat",
+			"weapon": "M4A4",
+			"skinName": "Red DDPAT",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a4::the emperor",
+			"weapon": "M4A4",
+			"skinName": "The Emperor",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m4a4::urban ddpat",
+			"weapon": "M4A4",
+			"skinName": "Urban DDPAT",
+			"itemSubtype": "Rifles"
+		},
+		{
+			"key": "m9 bayonet::blue steel",
+			"weapon": "M9 Bayonet",
+			"skinName": "Blue Steel",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "m9 bayonet::crimson web",
+			"weapon": "M9 Bayonet",
+			"skinName": "Crimson Web",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "m9 bayonet::freehand",
+			"weapon": "M9 Bayonet",
+			"skinName": "Freehand",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "m9 bayonet::tiger tooth",
+			"weapon": "M9 Bayonet",
+			"skinName": "Tiger Tooth",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "m9 bayonet::ultraviolet",
+			"weapon": "M9 Bayonet",
+			"skinName": "Ultraviolet",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "moto gloves::cool mint",
+			"weapon": "Moto Gloves",
+			"skinName": "Cool Mint",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "moto gloves::eclipse",
+			"weapon": "Moto Gloves",
+			"skinName": "Eclipse",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "moto gloves::turtle",
+			"weapon": "Moto Gloves",
+			"skinName": "Turtle",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "specialist gloves::blackbook",
+			"weapon": "Specialist Gloves",
+			"skinName": "Blackbook",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "specialist gloves::cloud chaser",
+			"weapon": "Specialist Gloves",
+			"skinName": "Cloud Chaser",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "specialist gloves::crimson web",
+			"weapon": "Specialist Gloves",
+			"skinName": "Crimson Web",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "specialist gloves::lime polycam",
+			"weapon": "Specialist Gloves",
+			"skinName": "Lime Polycam",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "specialist gloves::pillow punchers",
+			"weapon": "Specialist Gloves",
+			"skinName": "Pillow Punchers",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "sport gloves::frosty",
+			"weapon": "Sport Gloves",
+			"skinName": "Frosty",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "sport gloves::nocts",
+			"weapon": "Sport Gloves",
+			"skinName": "Nocts",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "sport gloves::pandora's box",
+			"weapon": "Sport Gloves",
+			"skinName": "Pandora's Box",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "sport gloves::red racer",
+			"weapon": "Sport Gloves",
+			"skinName": "Red Racer",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "sport gloves::scarlet shamagh",
+			"weapon": "Sport Gloves",
+			"skinName": "Scarlet Shamagh",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "sport gloves::ultra violent",
+			"weapon": "Sport Gloves",
+			"skinName": "Ultra Violent",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "sport gloves::vice",
+			"weapon": "Sport Gloves",
+			"skinName": "Vice",
+			"itemSubtype": "Gloves"
+		},
+		{
+			"key": "talon knife::blue steel",
+			"weapon": "Talon Knife",
+			"skinName": "Blue Steel",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "talon knife::crimson web",
+			"weapon": "Talon Knife",
+			"skinName": "Crimson Web",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "talon knife::ultraviolet",
+			"weapon": "Talon Knife",
+			"skinName": "Ultraviolet",
+			"itemSubtype": "Knives"
+		},
+		{
+			"key": "usp-s::bleeding edge",
+			"weapon": "USP-S",
+			"skinName": "Bleeding Edge",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "usp-s::blueprint",
+			"weapon": "USP-S",
+			"skinName": "Blueprint",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "usp-s::check engine",
+			"weapon": "USP-S",
+			"skinName": "Check Engine",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "usp-s::cortex",
+			"weapon": "USP-S",
+			"skinName": "Cortex",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "usp-s::forest leaves",
+			"weapon": "USP-S",
+			"skinName": "Forest Leaves",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "usp-s::night ops",
+			"weapon": "USP-S",
+			"skinName": "Night Ops",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "usp-s::orion",
+			"weapon": "USP-S",
+			"skinName": "Orion",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "usp-s::para green",
+			"weapon": "USP-S",
+			"skinName": "Para Green",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "usp-s::printstream",
+			"weapon": "USP-S",
+			"skinName": "Printstream",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "usp-s::purple ddpat",
+			"weapon": "USP-S",
+			"skinName": "Purple DDPAT",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "usp-s::royal blue",
+			"weapon": "USP-S",
+			"skinName": "Royal Blue",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "usp-s::sleeping potion",
+			"weapon": "USP-S",
+			"skinName": "Sleeping Potion",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "usp-s::stainless",
+			"weapon": "USP-S",
+			"skinName": "Stainless",
+			"itemSubtype": "Pistols"
+		},
+		{
+			"key": "usp-s::whiteout",
+			"weapon": "USP-S",
+			"skinName": "Whiteout",
+			"itemSubtype": "Pistols"
+		}
+	]
+}

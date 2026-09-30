@@ -1,0 +1,38 @@
+node_modules
+
+# Output
+.output
+.vercel
+.netlify
+.wrangler
+/.svelte-kit
+/build
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors — `.vscode` holds shared recommendations and is committed on purpose.
+# `.idea` is per-machine WebStorm state (open tabs, run configs) and is not.
+.idea/
+
+# Env
+.env
+.env.*
+!.env.example
+!.env.test
+
+# Vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Playwright
+/test-results
+/playwright-report
+/blob-report
+/playwright/.cache
+
+# Profiling — `--heapsnapshot-signal` writes these into the working directory,
+# and they are large enough (90MB+) to be worth never committing by accident.
+*.heapsnapshot
+*.cpuprofile

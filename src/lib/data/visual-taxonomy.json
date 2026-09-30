@@ -1,0 +1,32 @@
+{
+	"$comment": "Display labels and ordering for the controlled visual vocabulary. The vocabulary itself is defined in src/lib/types/visual-metadata.ts and this file is validated to match it exactly — ids here are not a second source of truth. Array order is presentation order.",
+	"colors": [
+		{ "id": "black", "label": "Black" },
+		{ "id": "white", "label": "White" },
+		{ "id": "gray", "label": "Gray" },
+		{ "id": "silver", "label": "Silver" },
+		{ "id": "red", "label": "Red" },
+		{ "id": "orange", "label": "Orange" },
+		{ "id": "yellow", "label": "Yellow" },
+		{ "id": "gold", "label": "Gold" },
+		{ "id": "green", "label": "Green" },
+		{ "id": "cyan", "label": "Cyan" },
+		{ "id": "blue", "label": "Blue" },
+		{ "id": "purple", "label": "Purple" },
+		{ "id": "pink", "label": "Pink" },
+		{ "id": "brown", "label": "Brown" },
+		{ "id": "multicolor", "label": "Multicolor" }
+	],
+	"styles": [
+		{ "id": "clean", "label": "Clean" },
+		{ "id": "minimal", "label": "Minimal" },
+		{ "id": "dark", "label": "Dark" },
+		{ "id": "colorful", "label": "Colorful" },
+		{ "id": "neon", "label": "Neon" },
+		{ "id": "military", "label": "Military" },
+		{ "id": "futuristic", "label": "Futuristic" },
+		{ "id": "cyberpunk", "label": "Cyberpunk" },
+		{ "id": "anime", "label": "Anime" },
+		{ "id": "classic", "label": "Classic" }
+	]
+}
