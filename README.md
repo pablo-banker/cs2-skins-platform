@@ -1,6 +1,8 @@
 <div align="center">
 
-# CS2 Skins Platform
+<img src=".github/banner.svg" alt="CS2 Skins — price comparison for Counter-Strike 2 skins, not a marketplace" width="820">
+
+<br><br>
 
 **A PCPartPicker for CS2 skins.**
 Compare what every marketplace is asking, then buy from whoever is cheapest right now.

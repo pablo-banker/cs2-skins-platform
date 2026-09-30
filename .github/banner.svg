@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="1000" height="240" role="img" aria-labelledby="t">
+  <title id="t">CS2 Skins — price comparison for Counter-Strike 2 skins, not a marketplace</title>
+
+  <!--
+    A working title, not a brand mark. The product name is still a temporary
+    label and the production domain is undecided, so this is a typographic
+    treatment meant to be replaced, not an identity to build on.
+
+    Every colour is a real token from src/app.css, named here without the CSS
+    double dash because XML forbids that sequence inside a comment:
+
+      080A0D  background      F5F7FA  foreground
+      0F1217  surface         8D96A5  muted-foreground
+      222833  border          626C7A  subtle-foreground
+      F59E0B  primary         22C55E / EAB308 / EF4444  success, warning, danger
+
+    Two ideas carry the design, both taken from the subject rather than added
+    as decoration:
+
+      1. The amber pipe. Every CS2 player reads "AK-47 | Redline" a hundred
+         times a day, so the separator is the most recognisable piece of
+         typography in the domain. It is the one accent on the panel.
+
+      2. The bar underneath is the exterior progression, Factory New through
+         Battle-Scarred, and it happens to map exactly onto the palette's own
+         semantic ramp: success, warning, danger. Wear is the variant
+         dimension this whole product is built around.
+  -->
+
+  <defs>
+    <linearGradient id="wear" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22C55E" />
+      <stop offset="0.5" stop-color="#EAB308" />
+      <stop offset="1" stop-color="#EF4444" />
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="999" height="239" rx="16" fill="#080A0D" stroke="#222833" />
+
+
+  <text
+    x="64"
+    y="108"
+    font-family="Inter, 'Inter Variable', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+    font-size="72"
+    font-weight="700"
+    letter-spacing="-1.5"
+    fill="#F5F7FA"
+  >CS2<tspan dx="18" fill="#F59E0B" font-weight="400">|</tspan><tspan dx="18" fill="#F5F7FA">SKINS</tspan></text>
+
+  <text
+    x="64"
+    y="150"
+    font-family="Inter, 'Inter Variable', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+    font-size="18"
+    letter-spacing="0.2"
+    fill="#8D96A5"
+  >Price comparison for Counter-Strike 2 skins — not a marketplace</text>
+
+  <rect x="64" y="178" width="872" height="5" rx="2.5" fill="url(#wear)" />
+
+  <text
+    x="64"
+    y="202"
+    font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+    font-size="10"
+    letter-spacing="1"
+    fill="#626C7A"
+  >FACTORY NEW</text>
+  <text
+    x="936"
+    y="202"
+    text-anchor="end"
+    font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+    font-size="10"
+    letter-spacing="1"
+    fill="#626C7A"
+  >BATTLE-SCARRED</text>
+</svg>
